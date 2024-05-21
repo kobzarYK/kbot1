@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/spf13/cobra v1.8.0
-	gopkg.in/telebot.v3 v3.1.4
+	gopkg.in/telebot.v3 v3.2.1
 )
 
 require (
